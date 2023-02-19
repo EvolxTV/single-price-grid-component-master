@@ -4,4 +4,4 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Live Site URL: [Live site solution](evolxcsschallenge8.netlify.app)
+- Live Site URL: [Live site solution](https://evolxcsschallenge8.netlify.app)
